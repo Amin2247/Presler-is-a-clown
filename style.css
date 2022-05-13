@@ -1,0 +1,43 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 600;
+  height: 500;
+}
+canvas {
+  display: block;
+}
+h1 {
+  list-style: upper-roman;
+  font-style: italic;
+  font-size: 35px;
+  color: blue;
+  text-shadow: 2px 2px 3px rgb(8,128,44);
+  font-weight: bold;
+}
+
+h2 {
+  list-style: upper-roman;
+  font-style: italic;
+  color: blue;
+    font-weight: bold;
+}
+li {
+  color: red;
+    font-weight: bold;
+}
+.c2{
+  font-size: 15px;
+  position: fixed;
+  top:320px;
+  left: 20px;
+  width: 120px;
+}
+.c3{
+  font-size: 15px;
+  position: fixed;
+  top:320px;
+  left: 200px;
+  width: 125px;
+}
